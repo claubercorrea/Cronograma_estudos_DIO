@@ -1,8 +1,8 @@
 # 🚀 Roadmap: Desenvolvedor Full-Stack (DIO)
 
 ### 📚 Acesso ao Projeto
-![NotebookLM](https://notebooklm.google.com/notebook/d71d551c-1a34-48c3-bc9e-0feace93f68d)
-
+### 📚 Acesso ao Projeto
+[![NotebookLM](https://img.shields.io/badge/NotebookLM-Acessar%20Projeto-blue?logo=google&logoColor=white)](https://notebooklm.google.com/notebook/d71d551c-1a34-48c3-bc9e-0feace93f68d)
 
 ## Table of Contents
 
