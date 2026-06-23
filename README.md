@@ -1,7 +1,7 @@
 # 🚀 Roadmap: Desenvolvedor Full-Stack (DIO)
-
+![NOTEBOOKLLM]( [./img/Captura%20de%20Tela%20(55).png](https://notebooklm.google.com/notebook/d71d551c-1a34-48c3-bc9e-0feace93f68d))
 ## Table of Contents
-
+[https://notebooklm.google.com/notebook/d71d551c-1a34-48c3-bc9e-0feace93f68d]
 <details>
 
    <summary>Contents</summary>
