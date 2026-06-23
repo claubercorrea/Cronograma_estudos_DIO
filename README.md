@@ -49,8 +49,9 @@ O plano é dividido em módulos de 20 horas, totalizando 170 horas de carga hor�
 *   **CRUD:** Operações básicas (Create, Read, Update, Delete) em bancos de dados.
 
 ### 🔄 Prompts Reutilizáveis
-*   "Resuma os pontos principais deste módulo e crie um checklist de tarefas para garantir que cobri os tópicos de [TEMA]."
-*   "Explique como o conceito de [CONCEITO] se aplica a um cenário de e-commerce real."
+*   "Resuma os pontos principais deste módulo e crie um checklist de tarefas para garantir que cobri os tópicos de [git]."
+*   "Explique como o conceito de [git] se aplica a um cenário de e-commerce real."
+*   "Como funciona o comando git stash no e-commerce?"
 
 ---
 
